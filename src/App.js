@@ -9,7 +9,7 @@ import Heading from "./components/Heading";
 import StarProduct from "./components/StarProduct";
 import HotAccessoriesMenu from "./components/HotAccessoriesMenu";
 import HotAccessories from "./components/HotAccessories";
-import ProductReviews from "./components/ProductReviews";
+import ProductReviews from "./components/ProductReviews.js";
 
 function App() {
   return (

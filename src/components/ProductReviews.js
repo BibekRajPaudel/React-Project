@@ -16,7 +16,7 @@ const ProductReviews = ({ productReviews }) => {
         />
       ))}
     </div>
-  );
-};
+  )
+}
 
 export default ProductReviews;
